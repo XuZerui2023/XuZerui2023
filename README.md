@@ -108,7 +108,7 @@
 - 🥈 **2023全国大学生数学建模竞赛** - **省级二等奖**
 
 
-## 🛠 **Skills**
+### 🛠 **My Skills**
 - **编程语言**：`C++` `Python` `TypeScript`了解`Golang`, `Shell`；
 - **算法**：强化学习、深度学习、机器学习、数据分析、CV算法
 - **数据分析**：`SQL` `Numpy` `Pandas` `Matplotlib`
