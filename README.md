@@ -1,3 +1,19 @@
+<div align="center">
+
+  <!-- dynamic typing effect 动态打字效果 -->
+  <div>
+    <a href="https://blog.sunguoqi.com/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Richard 祝您今天愉快!&center=true&size=27" />
+    </a>
+  </div>
+
+  <!-- knock code pictures 敲代码的图片 -->
+  <!-- 敲代码图片 -->
+  <a href="https://sm.ms/image/n2wPkGMSgY7eKE3" target="_blank"><img src="https://s2.loli.net/2024/05/16/n2wPkGMSgY7eKE3.png" width="400" ></a>
+
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
+
 <h1 align="center"> Hi 👋, I'm Richard_Xu </h1>
 
 <p align="center">
