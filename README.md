@@ -26,12 +26,10 @@
 ---
 
 ## 🙋 **About Me**
-
+### **✨ Richard_Xu | XuZerui**
 <table>
   
 <tr><td>
-  
-### **✨ Richard_Xu | XuZerui**
 ### 🏫 Educational Background
 
 • [北京理工大学](https://www.bit.edu.cn/) &emsp; 📌 2024-09 —— now
