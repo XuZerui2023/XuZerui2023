@@ -13,6 +13,7 @@
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
+</div>
 
 <h1 align="center"> Hi 👋, I'm Richard_Xu </h1>
 
