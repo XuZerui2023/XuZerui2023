@@ -25,29 +25,26 @@
 
 ---
 
-
----
+## 👋 **About Me**
 
 <table>
   
 <tr><td>
 
-## 👋 **About Me**
-
 ### 🏫 Educational Background
 
-• [北京理工大学](https://www.bit.edu.cn/) &emsp; 📌 2024-09 —— 
+• [北京理工大学](https://www.bit.edu.cn/) &emsp; 📌 2024-09 —— now
 
-  <p>&emsp;&emsp;• 专业：软件工程</p>
+  <p>&emsp;&emsp;• 专业：信息与通信工程</p>
   
-  <p>&emsp;&emsp;• 学习内容：LLM预训练与微调，RL</p>
+  <p>&emsp;&emsp;• 学习内容：雷达信号处理，阵列信号处理，机器学习，深度学习，强化学习</p>
 
 
-• [北京理工大学](https://www.bit.edu.cn/) &emsp; 📌 2020-09 —— 2024-06
+• [东北大学](https://www.neu.edu.cn/) &emsp; 📌 2020-09 —— 2024-06 
 
-  <p>&emsp;&emsp;• 专业：计算机科学与技术</p>
+  <p>&emsp;&emsp;• 专业：通信工程（中外合作）</p>
   
-  <p>&emsp;&emsp;• 学习内容：计算机网络，数据库，计算机原理，操作系统，数据结构与算法，前后端开发</p>
+  <p>&emsp;&emsp;• 学习内容：通信原理，信号与系统，数字信号处理，计算机网络，数据结构与算法，模拟电路，数字电路</p>
 
 
 </td></tr>
